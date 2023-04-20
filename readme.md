@@ -1,5 +1,3 @@
-Here's an example `README.md` file for a Flask API hosted on GitHub:
-
 # My Flask API
 
 This is a simple Flask API that retrieves the value of the Unidad de Fomento (UF) for a given date. The UF is an index used in Chile to adjust prices, taxes, and other economic values. This API scrapes the UF value from the official website of the Servicio de Impuestos Internos (SII) in Chile.
